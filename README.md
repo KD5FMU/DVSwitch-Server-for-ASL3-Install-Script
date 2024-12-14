@@ -1,6 +1,6 @@
 # DVSwitch-Install
 
-In the name of making things a little simpler, I thought I would put together a bash script to help streamline the installation process of DVSwitch server for AllStarLink verion 3. 
+In the name of making things a little simpler, I thought I would put together a bash script to help streamline the installation process of DVSwitch server for AllStarLink version 3. 
 
 Before downloading we recommend switching to the /tmp folder to download this script file into.
 
