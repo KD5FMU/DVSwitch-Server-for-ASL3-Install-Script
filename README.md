@@ -7,6 +7,11 @@ Before downloading we recommend switching to the /tmp folder to download this sc
 ```
 cd /tmp
 ```
+Then download the script file
+```
+sudo wget https://raw.githubusercontent.com/KD5FMU/DVSwitch-Server-for-ASL3-Install-Script/refs/heads/main/dvswitch_asl3
+```
+
 Once downloaded you will need to make the file executable.
 
 ```
