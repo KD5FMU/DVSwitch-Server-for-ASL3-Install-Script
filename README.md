@@ -1,4 +1,6 @@
-# DVSwitch-Install
+![DVSwitch Logo](https://github.com/KD5FMU/DVSwitch-Server-for-ASL3-Install-Script/blob/main/DVSI.png)
+
+# DVSwitch Installer Script
 
 In the name of making things a little simpler, I thought I would put together a bash script to help streamline the installation process of DVSwitch server for AllStarLink version 3. 
 
